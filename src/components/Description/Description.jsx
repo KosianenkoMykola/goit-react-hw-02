@@ -6,7 +6,7 @@ export default function Description() {
     <div>
       <h1 className={css.title}>
         Sip Happens Café
-        <PiCoffeeDuotone size={35}/>
+        <PiCoffeeDuotone size={35} />
       </h1>
       <p className={css.descr}>
         Please leave your feedback about our service by selecting one of the
